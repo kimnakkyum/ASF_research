@@ -1,0 +1,2 @@
+class parameters :
+    DBINFO = ''

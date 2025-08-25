@@ -14,3 +14,8 @@
 
 <img width="757" height="350" alt="image" src="https://github.com/user-attachments/assets/65e5ecc6-fc60-47cf-b75b-ffbbe4bbfdec" />
 
+
+코드 구성
+1. 1치년도 연구용 데이터셋 구축 및 위험도 예측 코드
+2. 1차년도 데이터셋 구축 및 위험도 예측 + 정기 리포트 생성 코드
+3. 2차년도 데이터셋 구축 및 위험도 예측 코드

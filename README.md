@@ -1,4 +1,4 @@
-<img width="757" height="350" alt="image" src="https://github.com/user-attachments/assets/267f6ec8-c1d8-44d9-b2fd-73968912140f" />고위험 농장을 사전 탐지하고, 데이터 기반의 방역 자원 배분 및 의사결정 지원을 위해 ASF 위험도 예측 모델을 개발함
+고위험 농장을 사전 탐지하고, 데이터 기반의 방역 자원 배분 및 의사결정 지원을 위해 ASF 위험도 예측 모델을 개발함
 
 분석 배경
 - 지속적인 아프리카돼지열병(ASF) 전파로 인해, 위험도 분석을 통한 신속한 관리 및 방역자원의 효율적인 배분 필요
@@ -11,4 +11,5 @@
 - ASF 발생 시 신속한 관리 및 방역 정책 결정자의 의사결정을 지원
 - 고위험 농장의 사전 식별을 통해 방역 자원과 인력의 우선순위 설정 가능
 
-  <img width="757" height="350" alt="image" src="https://github.com/user-attachments/assets/d2adf1f3-b0a6-495f-a7c2-0c48fd53d9b8" />
+<img width="757" height="350" alt="image" src="https://github.com/user-attachments/assets/65e5ecc6-fc60-47cf-b75b-ffbbe4bbfdec" />
+
